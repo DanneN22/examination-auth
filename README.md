@@ -1,6 +1,4 @@
-# examination-auth
 
-...existing code...
 # Examination Auth - Kort instruktion
 
 Kortfattat: ett litet Node.js API för inlärning av autentisering med JWT och rollkontroll.
